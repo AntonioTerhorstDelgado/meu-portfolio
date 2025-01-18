@@ -72,6 +72,9 @@ body {
   color: #333;
 }
 
+.section a {
+  color: rgb(85, 26, 139);
+}
 .linkedin-button {
   display: block;
   width: fit-content;
